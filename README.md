@@ -28,3 +28,5 @@ for Unsupervised Cross-Domain Adaptation
 *Paper Link [here](http://ieeexplore.ieee.org/document/8576538) *Summary link
 - Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras  
 *Paper Link [here](http://ieeexplore.ieee.org/abstract/document/8325527/) *Summary link
+- Vision: A Deep Learning Approach to provide walking assistance to the visually impaired  
+- *Paper Link [here](https://arxiv.org/abs/1911.08739?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29) *Summary link [here]
