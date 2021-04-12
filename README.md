@@ -29,4 +29,4 @@ for Unsupervised Cross-Domain Adaptation
 - Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras  
 *Paper Link [here](http://ieeexplore.ieee.org/abstract/document/8325527/) *Summary link
 - Vision: A Deep Learning Approach to provide walking assistance to the visually impaired  
-- *Paper Link [here](https://arxiv.org/abs/1911.08739?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29) *Summary link [here](https://github.com/engineerjkk/PaperReview/blob/main/Paper-Review/Vision_A%20Deep%20Learning%20Approach%20to%20provide%20walking%20assistance%20to%20the%20visually%20impaired.pdf)
+*Paper Link [here](https://arxiv.org/abs/1911.08739?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29) *Summary link [here](https://github.com/engineerjkk/PaperReview/blob/main/Paper-Review/Vision_A%20Deep%20Learning%20Approach%20to%20provide%20walking%20assistance%20to%20the%20visually%20impaired.pdf)
