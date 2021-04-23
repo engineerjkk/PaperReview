@@ -22,11 +22,11 @@ for Unsupervised Cross-Domain Adaptation
 *Paper Link [here](https://arxiv.org/abs/1909.06999) *Summary link
 - DPSNet: End-to-end Deep Plane Sweep Stereo  
 *Paper Link [here](https://openreview.net/pdf?id=ryeYHi0ctQ) *Summary link
--~Depth Completion with Deep Geometry and Context Guidance  
+- Depth Completion with Deep Geometry and Context Guidance  
 *Paper Link [here](https://www.ri.cmu.edu/wp-content/uploads/2019/02/ICRA2019_final.pdf) *Summary link
--~Robust Depth Estimation using Auto-Exposure Bracketing  
+- Robust Depth Estimation using Auto-Exposure Bracketing  
 *Paper Link [here](http://ieeexplore.ieee.org/document/8576538) *Summary link
--~Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras  
+- Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras  
 *Paper Link [here](http://ieeexplore.ieee.org/abstract/document/8325527/) *Summary link
 - Vision: A Deep Learning Approach to provide walking assistance to the visually impaired  
 *Paper Link [here](https://arxiv.org/abs/1911.08739?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29) *Summary link [here](https://github.com/engineerjkk/PaperReview/blob/main/Paper-Review/Vision_A%20Deep%20Learning%20Approach%20to%20provide%20walking%20assistance%20to%20the%20visually%20impaired.pdf)
